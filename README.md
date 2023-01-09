@@ -4,4 +4,4 @@ This site was built using technologies:
 - HTML 5
 - CSS 3
 
-You can view it at the link [Growfy](https://viacheslav-saprykin.github.io/color_square_game/).
+You can view it at the link [Growfy](https://viacheslav-saprykin.github.io/growfy-landing/).
